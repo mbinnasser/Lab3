@@ -1,4 +1,4 @@
-emp = {} #0
+emp = {} 
 def saveNames():
     name = input("please enter your name:")
     salary = input("please enter your salary:")
